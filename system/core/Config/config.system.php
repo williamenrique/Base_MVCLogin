@@ -1,5 +1,5 @@
 <?php
-const BASE_URL = "http://login.lat/";
+const BASE_URL = "http://mvc.lat/";
 const HEAD = "src/include/head.php";
 const FOOTER = "src/include/footer.php";
 const LIBS = "system/core/Libraries/";
